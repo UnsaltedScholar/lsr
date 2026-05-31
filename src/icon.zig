@@ -46,7 +46,7 @@ const java: Icon = .{ .icon = "", .color = "\x1b[38;2;0;115;150m" }; // #0073
 const javascript: Icon = .{ .icon = "", .color = "\x1b[38;2;0;187;0m" }; // #00BB00
 const json: Icon = .{ .icon = "", .color = Options.Colors.blue };
 const kt: Icon = .{ .icon = "", .color = "\x1b[38;2;127;82;255m" }; // #7F52FF
-const lua: Icon = .{ .icon = "󰢱", .color = "\x1b[38;2;0;0;124m" }; // #00007C
+const lua: Icon = .{ .icon = "󰢱", .color = "\x1b[38;2;0;0;200m" }; // #0000C8
 const makefile: Icon = .{ .icon = "", .color = "\x1b[38;2;227;121;51m" }; // existing makefile
 const markdown: Icon = .{ .icon = "", .color = Options.Colors.fg };
 const nim: Icon = .{ .icon = "", .color = "\x1b[38;2;254;233;89m" }; // #FEE959
